@@ -1,11 +1,13 @@
 about:
-  description: Go Test Interactive Picker 🧪
+  description:
+  |
+    Go Test Interactive Picker 🧪
   license: MIT
   homepage: 
   head: 72934c3
   archived: false
   latestVersion: v0.10.2
-  collectedAt: 2026-09-03T05:13:17Z
+  collectedAt: 2026-09-03T22:38:25Z
 timeline:
   created: 2025-07-05
   lastCommit: 2026-08-30
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 146687
   Tape: 1027
-totalLine: 147714
+totalBytes: 147714
 recent:
   last30d:
     since: 2026-08-04
