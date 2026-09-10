@@ -1,0 +1,33 @@
+- repo: nix_stable_25_11
+  srcname: gotip
+  visiblename: gotip
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Go test interactive picker
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: gotip
+  visiblename: gotip
+  version: 0.6.4
+  origversion: null
+  status: outdated
+  summary: Go test interactive picker
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gotip
+  visiblename: gotip
+  version: 0.10.2
+  origversion: null
+  status: unique
+  summary: Go test interactive picker
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - MIT
